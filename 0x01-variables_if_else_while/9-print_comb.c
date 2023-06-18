@@ -1,0 +1,18 @@
+#include<stdio.h>
+/**
+ * main - combo numbers separated
+ * Return: Always 0 (success)
+*/
+int main(void)
+{
+	int n;
+
+	for (n = 48 ; n <= 57 ; n++)
+	{
+		putchar(n);
+		pucthar(',');
+		pucthar(' ');
+	}
+	pucthar('\n');
+	return (0);
+}
