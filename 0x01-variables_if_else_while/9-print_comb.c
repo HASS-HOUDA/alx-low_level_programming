@@ -11,7 +11,7 @@ int main(void)
 	{
 		if (n == 57)
 			putchar(n);
-		if else
+		else
 		putchar(n);
 		putchar(',');
 		putchar(' ');
