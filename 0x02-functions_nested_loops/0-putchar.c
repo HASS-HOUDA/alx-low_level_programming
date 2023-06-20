@@ -1,6 +1,6 @@
-#include"main.h"
+#include "main.h"
 /**
- * main - write _putchar
+ * main - write '_putchar'
  * Return: Always 0 (success)
 */
 int main(void)
