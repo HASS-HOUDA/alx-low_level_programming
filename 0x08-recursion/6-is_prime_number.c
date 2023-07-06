@@ -7,14 +7,13 @@
  * Return: 0 or 1
  */
 
-int check_prime(int n, int othrn);
 int is_prime_number(int n)
 {
 	return (check_prime(n, 2));
 }
 
 /**
- * check prime - checks all numbers < nif they devide it
+ * check_prime - checks all numbers < n if they devide it
  * @n: int
  * @othrn: int
  * Return: int
