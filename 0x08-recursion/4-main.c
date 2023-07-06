@@ -4,7 +4,7 @@
 /**
  * main - check the code
  *
- * Return: Alwways 0.
+ * Return: Always 0.
  */
 int main(void)
 {
@@ -23,4 +23,4 @@ int main(void)
 	r = _pow_recursion(-5, 3);
 	printf("%d\n", r);
 	return (0);
-}
+
