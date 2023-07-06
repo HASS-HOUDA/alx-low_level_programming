@@ -3,7 +3,6 @@
 /**
  * is_prime_number - check if n is a prime number
  * @n: int
- * @othrn: int
  * Return: 0 or 1
  */
 
